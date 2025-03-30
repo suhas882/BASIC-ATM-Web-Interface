@@ -1,2 +1,12 @@
 # BASIC-ATM-Web-Interface
-BASIC-ATM-Web-Interface A simple ATM simulation built using C for backend logic and HTML, CSS, and JavaScript for the frontend interface.  Features: PIN authentication system.  Balance inquiry functionality.  Cash withdrawal with validation (multiples of ₹100, minimum balance check).  Cash deposit feature.  User-friendly web interface.
+
+This project is a web-based ATM simulation where users can perform PIN authentication, check their balance, withdraw cash, and deposit money. It integrates C, HTML, CSS, and JavaScript to create an interactive user experience.
+
+## 🛠 Features
+
+✅ Secure PIN authentication  
+✅ Balance checking  
+✅ Cash withdrawal (multiples of ₹100)  
+✅ Cash deposit  
+✅ Responsive web UI  
+✅ Interactive JavaScript for transactions  
