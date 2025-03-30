@@ -1,0 +1,18 @@
+# Ignore compiled C files
+*.out
+*.o
+*.exe
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary or log files
+*.log
+*.tmp
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore Node modules (if ever used)
+node_modules/
